@@ -1,0 +1,27 @@
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+}
+
+body {
+    padding: 20px;
+}
+
+.container {
+    min-height: 600px;
+    background-color: darkgray;
+}
+
+.result {
+    margin: 5px, 5px, 5px, 5px;
+}
+
+.table {
+    color: white;
+}
+
+.form {}
+
+
+/* .col {
+    padding: 20px;
+} */

@@ -1,0 +1,1 @@
+<nav class="navbar fixed-bottom bg-white text-right" style="height: 40px"><p style="font-family: Tahoma;text-align: right">2022 - CHỮ KÝ ĐIỆN TỬ</p></nav>

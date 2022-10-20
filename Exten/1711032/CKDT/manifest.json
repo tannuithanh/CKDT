@@ -1,0 +1,15 @@
+{
+  "name": "Chữ ký điện tử",
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "description": "Phần mềm chữ ký điện tử R&D Ô TÔ",
+  "background": {
+    "scripts": ["js/background.js"],
+    "persistent": true
+  },
+  "permissions": ["notifications"],
+  "icons": {
+    "16":"icon.png",
+    "48":"icon.png"
+  }
+}
