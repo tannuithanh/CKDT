@@ -1,0 +1,30 @@
+.status-btn {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.status-checking {
+    background-color: orange;
+}
+.status-pending {
+    background-color: blue;
+}
+.status-rejected {
+    background-color: red;
+}
+.status-approved {
+    background-color: green;
+}
+.action-btn {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.action-btn:hover {
+    background-color: #0056b3;
+}
+

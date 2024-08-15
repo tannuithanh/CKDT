@@ -1,0 +1,25 @@
+.form-section {
+    background-color: #fffcd5;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-section h4 {
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #333;
+}
+.form-label {
+    font-weight: bold;
+    color: #555;
+    font-size: 14px; /* Giảm kích thước chữ của nhãn */
+}
+.form-control {
+    font-size: 14px; /* Giảm kích thước chữ của nội dung nhập liệu */
+}
+.required .form-label::after {
+    content: ' *';
+    color: red;
+}
+

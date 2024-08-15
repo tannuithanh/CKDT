@@ -1,0 +1,16 @@
+{
+    "/js/setting/profile.js": "/js/setting/profile.js",
+    "/js/setting/settingSystem.js": "/js/setting/settingSystem.js",
+    "/js/forms/leaveForms.js": "/js/forms/leaveForms.js",
+    "/js/forms/getLeaveForm.js": "/js/forms/getLeaveForm.js",
+    "/js/loadingView.js": "/js/loadingView.js",
+    "/js/formManagement.js": "/js/formManagement.js",
+    "/js/forms/jobRequestForm.js": "/js/forms/jobRequestForm.js",
+    "/js/forms/getJobRequestForm.js": "/js/forms/getJobRequestForm.js",
+    "/css/forms/jobRequestForm.css": "/css/forms/jobRequestForm.css",
+    "/css/formManagement.css": "/css/formManagement.css",
+    "/css/forms/leaveForms.css": "/css/forms/leaveForms.css",
+    "/css/setting/settingSystem.css": "/css/setting/settingSystem.css",
+    "/css/setting/profile.css": "/css/setting/profile.css",
+    "/css/layouts/app.css": "/css/layouts/app.css"
+}
